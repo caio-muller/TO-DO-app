@@ -1,0 +1,1 @@
+Aplicativo simples de lista de tarefas desenvolvido em Kotlin com Android Studio baseado [nesse curso](https://youtube.com/playlist?list=PLPs3nlHFeKTp6tQwIuUoC248VL2aDwbqW&si=Zf9Aa0SXc-SnWi98) gratuito.
